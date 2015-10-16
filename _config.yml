@@ -2,7 +2,3 @@ source:     .
 exclude: [README.md]
 layouts:     ./_layouts
 includes:     ./_includes
-<<<<<<< HEAD
-=======
-baseurl: .
->>>>>>> foxfooding/master
